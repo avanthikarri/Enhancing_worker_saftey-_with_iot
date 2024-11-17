@@ -14,8 +14,8 @@ This repository contains the code and design files for an IoT-based wearable saf
 @Alerts and Notifications:
        GSM module for sending alerts when critical thresholds are crossed or geofencing violations occur.
 **Technologies Used**
-    **Microcontroller**: ESP32/Arduino (specify as per your implementation).
-    **Programming Languages**: Python/C++ for microcontroller programming.
+    **Microcontroller**: Arduino and NodeMCU ESP8266
+    **Programming Languages**: C++ for microcontroller programming.
 **Sensors:**
       Heart rate (Pulse sensor)
       SpO2
