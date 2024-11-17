@@ -20,7 +20,7 @@ This repository contains the code and design files for an IoT-based wearable saf
       Heart rate (Pulse sensor)
       SpO2
       DHT (Temperature and Humidity)
-      MQ Series (MQ-2, MQ-5, MQ-6)
+      MQ Sensors
       Accelerometer and Gyroscope
 **Communication Modules:**
      Neo-6M GPS
